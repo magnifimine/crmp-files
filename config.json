@@ -2,8 +2,5 @@
   "version": "1.0.0",
   "launcher_active": true,
   "maintenance_message": "Лаунчер работает в штатном режиме.",
-  "archive_parts": [
-    "https://github.com/magnifimine/limonovka/releases/download/v1.0/game_part1.zip",
-    "https://github.com/magnifimine/limonovka/releases/download/v1.0/game_part2.zip"
-  ]
+  "game_archive_url": "https://github.com/magnifimine/crmp-files/releases/download/1.1/game_part.zip"
 }
