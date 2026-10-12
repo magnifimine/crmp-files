@@ -1,6 +1,10 @@
 {
-  "version": "1.0.0",
-  "launcher_active": false,
+  "version": "1.1",
+  "launcher_active": true,
   "maintenance_message": "Лаунчер работает в штатном режиме.",
-  "game_archive_url": "https://github.com/magnifimine/crmp-files/releases/download/1.1/game_part.zip"
+  "game_archive_parts": [
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/game_part.zip.001",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/game_part.zip.002",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/game_part.zip.003"
+  ]
 }
