@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "launcher_active": true,
+  "launcher_active": false,
   "maintenance_message": "Лаунчер работает в штатном режиме.",
   "game_archive_parts": [
     "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamer.zip.001",
