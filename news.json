@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "image": "https://raw.githubusercontent.com/magnifimine/crmp-files/main/news/1.jpg",
+      "title": "Обновление 2.5",
+      "caption": "Новые машины и оружие",
+      "link": "https://t.me/limonovka20/123"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/magnifimine/crmp-files/main/news/2.jpg",
+      "title": "Ивент на выходных",
+      "caption": "Гонки в Лос-Сантосе",
+      "link": "https://t.me/limonovka20/124"
+    }
+  ]
+}
