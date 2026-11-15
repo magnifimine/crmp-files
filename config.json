@@ -3,8 +3,9 @@
   "launcher_active": false,
   "maintenance_message": "Зимняя ОБНОВА!, мы уже работаем над ней!",
   "game_archive_parts": [
-    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamer.zip.001",
-    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamer.zip.002",
-    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamer.zip.003"
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.001",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.002",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.002",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.003"
   ]
 }
