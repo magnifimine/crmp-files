@@ -3,9 +3,9 @@
   "launcher_active": true,
   "maintenance_message": "Сервер временно недоступен связи с аттакой, мы уже работает над улучшением защиты!",
   "game_archive_parts": [
-    "http://193.232.53.204:6182/gamep.zip.001",
-    "http://193.232.53.204:6182/gamep.zip.002",
-    "http://193.232.53.204:6182/gamep.zip.003",
-    "http://193.232.53.204:6182/gamep.zip.004"
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.001",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.002",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.003",
+    "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.004"
   ]
 }
