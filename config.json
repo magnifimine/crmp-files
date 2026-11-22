@@ -1,7 +1,7 @@
 {
   "version": "1.3",
-  "launcher_active": true,
-  "maintenance_message": "Сервер временно недоступен связи с аттакой, мы уже работает над улучшением защиты!",
+  "launcher_active": false,
+  "maintenance_message": "Ошибка, не удалось проверить доступность сервера.",
   "game_archive_parts": [
     "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.001",
     "https://github.com/magnifimine/crmp-files/releases/download/1.1/gamep.zip.002",
